@@ -40,7 +40,7 @@ web_scraping_hw/
 │   └── requirements.txt                               # 相依套件清單
 │
 ├── assignment01_scraper.py   # 漫畫 scraper 函式
-├── downloaded_manga/         # 程式執行後存放漫畫圖片的資料夾（名稱可自訂）
+├── downloaded_manga/         # 程式執行後存放漫畫圖片的資料夾
 └── README.md                 # 專案說明文件
 ```
 
