@@ -35,8 +35,8 @@
 web_scraping_hw/
 │
 ├── project_mangaz/
-│   ├── Assignment01_動態爬蟲案例_mangaz_練習版.ipynb  # 教師提供的範本檔（作業起點）
-│   ├── assignment01_scarper_mangaz.py                  # 將老師程式碼邏輯包裝成 def 的模組
+│   ├── Assignment01_動態爬蟲案例_mangaz_練習版.ipynb  # 教師提供的範本檔
+│   ├── assignment01_scarper_mangaz.py                 # 將老師程式碼邏輯包裝成 def 的模組
 │   └── requirements.txt                               # 相依套件清單
 │
 ├── assignment01_scraper.py   # 漫畫 scraper 函式
